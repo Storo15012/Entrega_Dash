@@ -1,0 +1,8 @@
+
+dash==2.11.1
+plotly==5.19.0
+pandas==2.2.2
+numpy==1.26.4
+dash-bootstrap-components==1.5.0
+# Gunicorn is required by Render to serve the Dash app
+gunicorn==20.1.0
